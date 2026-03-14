@@ -167,4 +167,3 @@ pip install -r requirements.txt
 * XGBoost
 
 ---
-"# credit-fraud-detector" 
